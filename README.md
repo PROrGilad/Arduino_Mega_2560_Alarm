@@ -53,5 +53,5 @@ The system integrates an LCD interface, keypad controls, RGB LED indicators, and
 3. **Intrusion Detection:** Triggers siren and flashing LEDs.  
 4. **Disarm:** Use RFID or password.  
 5. **View History (B):** Scroll through recent alarm logs.  
-6. **Change Password (C):** Securely update access code.  
+6. **Change Password (C):** Securely update access code (Default: 1234).  
 7. **PIR Mode (D):** Switch between Active HIGH/LOW configurations.
