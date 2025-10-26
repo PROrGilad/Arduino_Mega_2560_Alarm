@@ -38,10 +38,9 @@ The system integrates an LCD interface, keypad controls, RGB LED indicators, and
 
 ## Circuit Diagram
 
-| Description | Image |
-|--------------|--------|
-| **System Diagram** | ![Alarm Diagram](Alarm%20With%20RFID%20Diagram.png) |
-| **Actual Build** | ![Actual Circuit](Arduino_Mega_Alarm_Actual_Circuit.jpg) |
+| System Diagram | Actual Build |
+|----------|---------------|
+| ![Circuit Diagram](Alarm%20With%20RFID%20Diagram.png)  |  ![Actual Circuit](Arduino_Mega_Alarm_Actual_Circuit.jpg)  |
 
 ---
 
