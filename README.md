@@ -1,11 +1,11 @@
-# 🛡️ Arduino Mega 2560 Alarm System
+# Arduino Mega 2560 Alarm System
 
 A compact and powerful **Arduino Mega 2560 alarm system** that combines **RFID authentication**, **PIR motion detection**, and **Ultrasonic distance sensing** to secure your area.  
 The system integrates an LCD interface, keypad controls, RGB LED indicators, and a dynamic siren for an engaging and functional security experience.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Dual Authentication:** Activate or disarm the alarm using either a **password** or an **RFID tag**.  
 - **Multi-Zone Detection:**
@@ -22,7 +22,7 @@ The system integrates an LCD interface, keypad controls, RGB LED indicators, and
   - `D` → Toggle PIR Polarity (W.I.P)
 ---
 
-## 🧩 Components Used
+## Components Used
 
 | Component | Pin(s) | Description |
 |------------|--------|-------------|
@@ -36,7 +36,7 @@ The system integrates an LCD interface, keypad controls, RGB LED indicators, and
 
 ---
 
-## 🖼️ Circuit Diagrams
+## Circuit Diagrams
 
 | Description | Image |
 |--------------|--------|
@@ -45,7 +45,7 @@ The system integrates an LCD interface, keypad controls, RGB LED indicators, and
 
 ---
 
-## ⚙️ Operation Summary
+## Operation Summary
 
 1. **Idle Mode:** Displays menu and clock. Motion from sensors is indicated briefly.  
 2. **Activate Alarm (A):** Authenticate, wait for countdown → Alarm armed.  
