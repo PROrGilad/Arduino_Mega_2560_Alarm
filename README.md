@@ -36,7 +36,7 @@ The system integrates an LCD interface, keypad controls, RGB LED indicators, and
 
 ---
 
-## Circuit Diagrams
+## Circuit Diagram
 
 | Description | Image |
 |--------------|--------|
